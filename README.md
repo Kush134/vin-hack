@@ -61,7 +61,6 @@ We were heavily inspired by the revised version of **Double Diamond** design pro
 
 Moreover, we utilized design tools like Figma,  Photoshop & Illustrator to prototype our designs before doing any coding. Through this, we are able to get iterative feedback so that we spend less time re-writing code.
 
-![image-178.png](https://i.postimg.cc/XvFw1qtH/image-178.png)
 
 ![breaker.png](https://i.postimg.cc/YSvrrWnc/breaker.png)
 
