@@ -114,6 +114,3 @@ But yes, PeerJs might run on WebTorrent P2P Mesh protocols, but at the end of th
 ## What's next? 🚀
 *We believe that our App has great potential*. We just really want this project to have a positive impact on people's lives! We would love to make it more *scalable* & *cross-platform* so that the user interaction increases to a great extent. Additionally, we intend to continue improving the image compression algorithms & adding receipts to track conversations for later use.
  
-**Note ⚠️ — API credentials have been revoked. If you want to run the same on your local, use your own credentials.**
-
-![Group-1686550958.png](https://i.postimg.cc/rpcSbMcq/Group-1686550958.png)
