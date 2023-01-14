@@ -2,8 +2,6 @@
 
 As ubiquitous and fast as the internet seems in developed countries, developing countries still struggle with reliable internet connections. The impact of poor internet connectivity exasperate the education inequality between children from prosperous countries and children from developing countries, because the latter cannot benefit from remote learning via video conferencing.
 
-Last year, it was found that that millions of students in the state of Odisha in India are stuck at home with no access to either internet or online education. Our teammate Subham Saahu, an Odisha native, has had first-hand experience of interruptions during his undergraduate studies.
-
 For even those who have access to the internet, the price is premium and the bandwidth limited. For instance, while talking to his parents in India, Subham found that they frequently run out of their allocated 1 GB far before the allowance period, after which the bandwidth gets throttled: stalled frames, choppy audio, painful delays, and eventual disconnections, and subsequent retries are a normal occurrence, but still arguably much better than normal telephone conversations because he gets to “see” them.
 
 At the heart of the problem lay lack of tele infrastructure for implementation of education on virtual platforms.
