@@ -29,7 +29,7 @@ On top of the bandwidth saving functionality, we also offer educational and cont
 
 ## How we built it ⚙️
 
-First and foremost, it is Crafted with 💙. The whole process can be broken into the following points :-
+The whole process can be broken into the following points :-
 - React, Redux on the frontend
 - Express.js, Node.js, Sockets, WebRTC, Twilio Live on the backend
 - External services like Twilio, Cohere.ai
